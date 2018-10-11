@@ -1,0 +1,17 @@
+*{transition: all 1s}
+*{margin: 0px; padding: 0px;}
+*{box-sizing: border-box;}
+.token.punctuation, .token.function, .token.selector, .token.property {
+    color: black;
+}
+#code {
+  
+    overflow: hidden;
+    flex: 1;
+}
+
+#papper {
+  
+    border: 1px solid green;
+    height: 100vh;
+}
